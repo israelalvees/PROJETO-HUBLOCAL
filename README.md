@@ -1,3 +1,9 @@
+<p align="center">
+<img src="https://img.shields.io/badge/STATUS-CONCLUÍDO-blue"/>
+</p>
+<br>
+
+
 # PROJETO-HUBLOCAL
 
 ## OBJETIVO: 
