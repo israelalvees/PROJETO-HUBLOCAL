@@ -22,7 +22,7 @@
 - Foi ultilizado formulas no Looker Studio afim de atingir-se a análise solicitada:
 
   - Conversão de Negociação Realizadas:
-    ***sql
-    
+    **sql    
     SUM(CASE WHEN Funil: etapa = 'Proposta Enviada' THEN 1 ELSE 0 END) / SUM(CASE WHEN Funil: etapa = 'Reunião Realizada' THEN 1 ELSE 0 END)
-    ***
+    **
+    
