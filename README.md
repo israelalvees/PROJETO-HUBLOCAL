@@ -1,6 +1,7 @@
 <div align="center">
 	
-![ETL](https://img.shields.io/badge/ETL-pink?style=for-the-badge&logo=sql&logoColor=white) ![LOOKER STUDIO](https://img.shields.io/badge/LOOKER%20STUDIO-Blue?style=for-the-badge&color=blue&labelColor=007ACC)
+![ETL](https://img.shields.io/badge/ETL-pink?style=for-the-badge&logo=sql&logoColor=white) ![LOOKER STUDIO](https://img.shields.io/badge/LOOKER%20STUDIO-Blue?style=for-the-badge&color=blue&labelColor=007ACC) ![GOOGLE](https://img.shields.io/badge/GOOGLE-Google?style=for-the-badge&labelColor=white&logo=google&logoColor=blue)
+
 
 
 
