@@ -1,6 +1,7 @@
 <div align="center">
 	
-![ETL](https://img.shields.io/badge/ETL-pink?style=for-the-badge&logo=sql&logoColor=white) ![LOOKER STUDIO](https://img.shields.io/badge/LOOKER STUDIO-blue)
+![ETL](https://img.shields.io/badge/ETL-pink?style=for-the-badge&logo=sql&logoColor=white) ![LOOKER STUDIO](https://img.shields.io/badge/LOOKER%20STUDIO-Blue?style=for-the-badge&logo=github&color=white)
+
 
 
 </div>
