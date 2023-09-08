@@ -1,8 +1,6 @@
 <div align="center">
 	
-![ETL](https://img.shields.io/badge/ETL-pink?style=for-the-badge&logo=sql&logoColor=white) ![LOOKER STUDIO](![image](https://github.com/israelalvees/PROJETO-HUBLOCAL/assets/128307729/c389d000-8f17-451d-8719-593a93a87ee5)
-)
-
+![ETL](https://img.shields.io/badge/ETL-pink?style=for-the-badge&logo=sql&logoColor=white) ![LOOKER STUDIO](https://img.shields.io/badge/LOOKER STUDIO-blue)
 
 
 </div>
