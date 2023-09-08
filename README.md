@@ -21,6 +21,8 @@
 - O tratamento foi feito no próprio Google Sheets.
 - DADOS NÃO INFORMADOS: Em alguns campos não foi informado o dado, sendo assim os nulls e outros dados incoerentes foram substituidos pela informação "não informado". Afim de se ter uma análise mais clara e real.
 
+- IMPORTANTE: Foi solicitado um filtro por NOME DO LEAD, porém essa informação não consta na Base de Dados fornecida. Sendo assim não foi possível criar o filtro. No dia a dia, seria contactado o Engenheiro ou verificado a possibilidade de atualizar a base para incluir a informação. No caso por ser um teste, não foi possível faze-lo.  
+
 ## TERCEIRA ETAPA: Criação do Dash.
 
 - Utilizando a planilha como fonte de dados, foi criado o dash de acordo com o solicitado.
