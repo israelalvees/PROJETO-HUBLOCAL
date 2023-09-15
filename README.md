@@ -47,7 +47,7 @@
     ```sql    
     SUM(CASE WHEN Funil: etapa = 'Proposta Enviada' THEN 1 ELSE 0 END) / SUM(CASE WHEN Funil: etapa = 'Reunião Realizada' THEN 1 ELSE 0 END)
     ```
-  - Conversão de Negociações Realizadas:
+  - Conversão de Propostas Enviadas:
     ```sql
     SUM(CASE WHEN Funil: etapa = 'Negociação' THEN 1 ELSE 0 END) / SUM(CASE WHEN Funil: etapa = 'Proposta Enviada' THEN 1 ELSE 0 END)
     ```
