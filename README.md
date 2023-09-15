@@ -59,7 +59,7 @@
 
 # Link do Dashboard:
 
-- [Dashboard-Looker]([https://seu-link-aqui.com](https://lookerstudio.google.com/reporting/929b939a-a3c2-4817-a0e0-0ea22ffead80)https://lookerstudio.google.com/reporting/929b939a-a3c2-4817-a0e0-0ea22ffead80)
+[Dashboard-Looker](https://lookerstudio.google.com/reporting/929b939a-a3c2-4817-a0e0-0ea22ffead80)
 
   
     
