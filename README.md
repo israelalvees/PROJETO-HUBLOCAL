@@ -31,7 +31,7 @@
 
 ## SEGUNDA ETAPA: ETL
 
-- Após feita a análise, foi identificado que não havia necessiade de ultilizar-se Ferraemnte de ETL, como Pentaho. A quantidade de dados a ser tradada era pouca e simples.
+- Após feita a análise, foi identificado que não havia necessiade de ultilizar-se Ferramenta de ETL, como Pentaho. A quantidade de dados a ser tradada era pouca e simples.
 - O tratamento foi feito no próprio Google Sheets.
 - DADOS NÃO INFORMADOS: Em alguns campos não foi informado o dado, sendo assim os nulls e outros dados incoerentes foram substituidos pela informação "não informado". Afim de se ter uma análise mais clara e real.
 
